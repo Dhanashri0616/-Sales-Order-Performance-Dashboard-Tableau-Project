@@ -51,4 +51,4 @@ Creating visually appealing and user-friendly dashboards
 
 
 ## 📷 Dashboard Preview
-<img src="https://github.com/Abhishek-Bhise1606/BLINKET-GROCERY-SALES-ANALYSICS-DASHBORD-POWER-BI/blob/main/BLINKET%20GROCERY%20SALES%20ANALYSICS%20DASHBORD%20POWER%20BI.png" width="80%">
+<img src="https://github.com/Dhanashri0616/-Sales-Order-Performance-Dashboard-Tableau-Project/blob/main/Sales%20%26%20Order%20Performance%20Dashboard%20Tableau.jpeg" width="80%">
