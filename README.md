@@ -24,27 +24,27 @@ Return on Equity (ROE)
 
 📊 Dashboard Insights   
 
-Sales vs Cost Analysis to evaluate profitability trends   
-GPM by Customer Segment (Consumer, Corporate, Home)    
-Cost Breakdown Analysis including:   
-Marketing
-Operational
-Product
-Returns
-Shipping
-Easy-to-read visualizations for quick executive insights
+Sales vs Cost Analysis to evaluate profitability trends     
+GPM by Customer Segment (Consumer, Corporate, Home)       
+Cost Breakdown Analysis including:       
+Marketing        
+Operational      
+Product     
+Returns     
+Shipping        
+Easy-to-read visualizations for quick executive insights     
 
-🛠 Tools & Technologies
+🛠 Tools & Technologies     
 
-Tableau
-Data Visualization
-Business Intelligence
-KPI Analysis
-Dashboard Design
+Tableau       
+Data Visualization       
+Business Intelligence      
+KPI Analysis      
+Dashboard Design     
 
-🚀 Key Learnings
+🚀 Key Learnings      
 
-Designing executive-level dashboards
-KPI selection and storytelling with data
-Segment-wise and cost-based performance analysis
-Creating visually appealing and user-friendly dashboards
+Designing executive-level dashboards     
+KPI selection and storytelling with data       
+Segment-wise and cost-based performance analysis       
+Creating visually appealing and user-friendly dashboards     
